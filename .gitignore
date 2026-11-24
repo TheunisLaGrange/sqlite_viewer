@@ -1,0 +1,25 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Project & Local Notes
+chat_history.txt
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+
+# IDE & OS Files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

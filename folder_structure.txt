@@ -1,0 +1,18 @@
+sqlite_viewer/
+├── data_access/
+│   └── db_service.py
+├── gui/
+│   ├── assets/
+│   │   └── app_icon.png
+│   ├── ui_components/
+│   │   ├── main_layout.py
+│   │   ├── sql_helper.py
+│   │   └── theme.py
+│   └── viewer_window.py
+├── .gitignore
+├── CHANGELOG.md
+├── chat_history.txt
+├── LICENSE
+├── README.md
+├── requirements.txt
+└── run_sqlite_viewer.py

@@ -1,0 +1,5 @@
+# Add project dependencies below (e.g., pandas==2.2.3)
+# sqlite_viewer uses Python standard library modules (tkinter, sqlite3, csv).
+# Uncomment Pillow below only if your script uses PIL.ImageTk to load gui/assets/app_icon.png:
+# Pillow>=10.0.0
+
